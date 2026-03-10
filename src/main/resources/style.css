@@ -4,7 +4,7 @@ body {
            text-align: center;
       }
 header img {
-            position:right-top;
+            position:flex;
             width: 100px;
             height:100px;
        }
